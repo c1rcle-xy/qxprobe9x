@@ -1,2 +1,0 @@
-# qxprobe9x
-tmp
